@@ -1,0 +1,8 @@
+step 1: create folder called "backup-photo"
+step 2: First filter file with extention ".png"
+step 3: ceate variable and store the value of filtered file name
+step 4: create a foder with name which is stored in variable
+step 5: move the file in created folder
+step 6: move the file in "backup-photo" folder
+step 7: filter the file which extention is ".jpeg" 
+step 8: repeat step 3 to 6
